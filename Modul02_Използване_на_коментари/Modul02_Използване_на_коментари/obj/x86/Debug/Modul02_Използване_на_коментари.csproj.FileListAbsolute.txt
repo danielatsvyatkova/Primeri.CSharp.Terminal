@@ -1,0 +1,4 @@
+C:\Users\MISHO\aula\primeri.csharp.terminal\Modul02_Използване_на_коментари\Modul02_Използване_на_коментари\bin\Debug\Modul02_Използване_на_коментари.exe
+C:\Users\MISHO\aula\primeri.csharp.terminal\Modul02_Използване_на_коментари\Modul02_Използване_на_коментари\bin\Debug\Modul02_Използване_на_коментари.pdb
+C:\Users\MISHO\aula\primeri.csharp.terminal\Modul02_Използване_на_коментари\Modul02_Използване_на_коментари\obj\x86\Debug\Modul02_Използване_на_коментари.exe
+C:\Users\MISHO\aula\primeri.csharp.terminal\Modul02_Използване_на_коментари\Modul02_Използване_на_коментари\obj\x86\Debug\Modul02_Използване_на_коментари.pdb
