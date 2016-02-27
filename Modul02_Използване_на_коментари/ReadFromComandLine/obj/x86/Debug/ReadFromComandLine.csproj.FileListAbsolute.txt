@@ -1,0 +1,4 @@
+C:\Users\MISHO\aula\primeri.csharp.terminal\Modul02_Използване_на_коментари\ReadFromComandLine\bin\Debug\ReadFromComandLine.exe
+C:\Users\MISHO\aula\primeri.csharp.terminal\Modul02_Използване_на_коментари\ReadFromComandLine\bin\Debug\ReadFromComandLine.pdb
+C:\Users\MISHO\aula\primeri.csharp.terminal\Modul02_Използване_на_коментари\ReadFromComandLine\obj\x86\Debug\ReadFromComandLine.exe
+C:\Users\MISHO\aula\primeri.csharp.terminal\Modul02_Използване_на_коментари\ReadFromComandLine\obj\x86\Debug\ReadFromComandLine.pdb
